@@ -63,8 +63,8 @@ I'm an Full Stack Developer currently diving deep into the world of web developm
 ## 📫 How to reach me
 
 - **LinkedIn:** [Shivanshu Prajapati](www.linkedin.com/in/shivanshu-prajapati-242a06323)
-- **Twitter (X):** [@your-username](https://x.com/ShivanshuPr)
-- **Email:** [your-email@example.com](mailto:shivanshu.pr@gmail.com)
+- **Twitter (X):** [@ShivanshuPr](https://x.com/ShivanshuPr)
+- **Email:** [shivanshu.pr@gmail.com](mailto:shivanshu.pr@gmail.com)
 
 ---
 
